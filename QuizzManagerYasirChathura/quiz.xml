@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<questions>
+	<question order="1">
+		<id>1</id>
+        <label>Decrement Operator, −−, Decreases The Value Of Variable By What Number?</label>
+        <difficulty>1</difficulty>
+        <topics>
+            <topic>Java</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> 1 </choice>
+            <choice valid="false"> 2 </choice>
+            <choice valid="false"> 3 </choice>
+            <choice valid="true"> 4 </choice>
+        </choices>
+	</question>
+	<question order="2">
+		<id>2</id>
+		<label>Which Of The Following Can Be Operands Of Arithmetic Operators?</label>
+		<difficulty>3</difficulty>
+		<topics>
+			<topic>Java</topic>
+		</topics>
+		<choices>
+			<choice valid="false"> Numeric </choice>
+			<choice valid="false"> Boolean </choice>
+            <choice valid="false"> Characters </choice>
+            <choice valid="true"> Both Numeric and Characters </choice>
+		</choices>
+	</question>
+	<question order="3">
+		<id>3</id>
+        <label>Which Of These Is Supported By Method Overriding In Java?</label>
+		<difficulty>1</difficulty>
+		<topics>
+			<topic>Java</topic>
+		</topics>
+		<choices>
+			<choice valid="true"> Abstraction </choice>
+			<choice valid="false"> Encapsulation </choice>
+			<choice valid="false"> Polymorphism </choice>
+            <choice valid="false"> None of the Mentioned </choice>
+		</choices>
+	</question>
+	<question order="4">
+		<id>4</id>
+		<label>Which Of This Keyword Can Be Used In A Subclass To Call The Constructor Of Superclass?</label>
+		<difficulty>3</difficulty>
+		<topics>
+			<topic>Java</topic>
+		</topics>
+		<choices>
+			<choice valid="true"> super </choice>
+			<choice valid="flase"> this </choice>
+			<choice valid="false"> extends </choice>
+			<choice valid="false"> extent </choice>
+		</choices>
+	</question>
+	<question order="5">
+		<id>5</id>
+		<label>Which Data Type Value Is Returned By All Transcendental Math Functions?</label>
+		<difficulty>3</difficulty>
+		<topics>
+			<topic>Java</topic>
+		</topics>
+		<choices>
+			<choice valid="false"> int </choice>
+			<choice valid="false"> float </choice>
+			<choice valid="true"> double </choice>
+			<choice valid="false"> long </choice>
+		</choices>
+	</question>
+	<question order="6">
+		<id>6</id>
+		<label>What Is The Range Of Short Data Type In Java?</label>
+		<difficulty>3</difficulty>
+		<topics>
+			<topic>Java</topic>
+		</topics>
+		<choices>
+			<choice valid="false"> -128 To 127 </choice>
+			<choice valid="true"> -32768 To 32767 </choice>
+			<choice valid="false"> -2147483648 To 2147483647 </choice>
+			<choice valid="false"> None Of The Mentioned </choice>
+		</choices>
+	</question>
+    <question order="7">
+        <id>7</id>
+        <label>JVM Stands For? (Type Your Answer)</label>
+        <difficulty>2</difficulty>
+        <topics>
+            <topic>Java</topic>
+        </topics>
+        <answers>
+            <answer>Java Virtual Machine</answer>
+        </answers>
+    </question>
+    <question order="8">
+        <id>8</id>
+        <label>Can 8 byte long data type be automatically type cast to 4 byte float data type?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>Java</topic>
+        </topics>
+        <choices>
+            <choice valid="true"> True </choice>
+            <choice valid="flase"> Flase </choice>
+        </choices>
+    </question>
+    <question order="9">
+        <id>9</id>
+        <label>What Is True About Class.getinstance()?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>Java</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> Class.getinstance Calls The Constructor </choice>
+            <choice valid="flase"> Class.getinstance Is Same As New Operator </choice>
+            <choice valid="flase"> Class.getinstance Needs To Have Matching Constructor </choice>
+            <choice valid="true"> Class.getinstance Creates Object If Class Does Not Have Any Constructor </choice>
+        </choices>
+    </question>
+    <question order="10">
+        <id>10</id>
+        <label>What Is True About Constructor?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>Java</topic>
+        </topics>
+        <choices>
+            <choice valid="true"> It Can Contain Return Type </choice>
+            <choice valid="flase"> It Can Take Any Number Of Parameters </choice>
+            <choice valid="flase"> It Can Have Any Non Access Modifiers </choice>
+            <choice valid="flase"> Constructor Cannot Throw An Exception </choice>
+        </choices>
+    </question>
+    <question order="11">
+        <id>11</id>
+        <label>PHP Stands For? (Type Your Answer)</label>
+        <difficulty>2</difficulty>
+        <topics>
+            <topic>PHP</topic>
+        </topics>
+        <answers>
+            <answer>Personal Home Page</answer>
+        </answers>
+    </question>
+    <question order="12">
+        <id>12</id>
+        <label>Which Version Of PHP Introduced Try/catch Exception?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>PHP</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> PHP 4 </choice>
+            <choice valid="true"> PHP 5 </choice>
+            <choice valid="flase"> PHP 5.3 </choice>
+            <choice valid="flase"> PHP 6 </choice>
+        </choices>
+    </question>
+    <question order="13">
+        <id>13</id>
+        <label>Type Hinting Was Introduced In Which Version Of PHP?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>PHP</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> PHP 4 </choice>
+            <choice valid="true"> PHP 5 </choice>
+            <choice valid="flase"> PHP 5.3 </choice>
+            <choice valid="flase"> PHP 6 </choice>
+        </choices>
+    </question>
+    <question order="14">
+        <id>14</id>
+        <label>How Many Error Levels Are Available In PHP?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>PHP</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> 14 </choice>
+            <choice valid="false"> 15 </choice>
+            <choice valid="true"> 16 </choice>
+            <choice valid="flase"> 17 </choice>
+        </choices>
+    </question>
+    <question order="15">
+        <id>15</id>
+        <label>Which One Of The Following Is Displayed Below The Class Name In The Class Diagrams?</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>PHP</topic>
+            <topic>UML Diagram</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> Functions </choice>
+            <choice valid="false"> Methods </choice>
+            <choice valid="true"> Attributes </choice>
+            <choice valid="flase"> Constraints </choice>
+        </choices>
+    </question>
+    <question order="16">
+        <id>16</id>
+        <label>Kind Of Diagrams Which Are Used To Show Interactions Between Series Of Messages Are Classified As</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>UML Diagram</topic>
+        </topics>
+        <choices>
+            <choice valid="false"> Activity Diagrams </choice>
+            <choice valid="false"> State Chart Diagrams </choice>
+            <choice valid="true"> Collaboration Diagrams </choice>
+            <choice valid="flase"> Object Lifeline Diagrams </choice>
+        </choices>
+    </question>
+    <question order="17">
+        <id>17</id>
+        <label>Diagrams Which Are Used To Distribute Files, Libraries And Tables Across Topology Of Hardware Are Called</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>UML Diagram</topic>
+        </topics>
+        <choices>
+            <choice valid="true"> Deployment Diagrams </choice>
+            <choice valid="false"> Use Case Diagrams </choice>
+            <choice valid="false"> Sequence Diagrams </choice>
+            <choice valid="flase"> Collaboration Diagrams </choice>
+        </choices>
+    </question>
+    <question order="18">
+        <id>18</id>
+        <label>Dynamic Aspects Related To A System Are Shown With Help Of</label>
+        <difficulty>3</difficulty>
+        <topics>
+            <topic>UML Diagram</topic>
+        </topics>
+        <choices>
+            <choice valid="flase"> Deployment Diagrams </choice>
+            <choice valid="true"> Interaction Diagrams </choice>
+            <choice valid="false"> Sequence Diagrams </choice>
+            <choice valid="flase"> Use Case Diagrams </choice>
+        </choices>
+    </question>
+</questions>
